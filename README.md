@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @22014941
-- 👀 I’m interested in cyber world
+- 👀 I’m interested in the cyber world
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on cyber security projects like Text Encryption
 - Using Various Algorithms
